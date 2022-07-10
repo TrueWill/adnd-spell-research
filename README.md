@@ -26,6 +26,8 @@ Total weeks
 Total cost
 Cost per week
 
+Maybe https://github.com/nastyox/Rando.js for randomness?
+
 ## Acknowledgements
 
 Built with [React](https://reactjs.org/).
